@@ -14,6 +14,17 @@ Ze maakt ballondecoratie op maat vanuit Rotterdam-Zevenkamp.
 - **Hosting:** Vercel (voorbeeldlink). Domein en deadlines worden later besproken.
 - **SEO:** doet Sander later.
 
+## Verzonnen voorbeeldinformatie op de site (controleren/vervangen!)
+Om de site professioneler te laten ogen is er informatie verzonnen. Alles hieronder moet met de klant worden gecheckt:
+- [ ] **Cijfers:** 250+ decoraties, 150+ klanten, 40+ ballonkleuren, reactie binnen 24 uur, 5.0 uit 60+ beoordelingen.
+- [ ] **"Sinds 2022"** (over-sectie) en de ondertekening **"Liefs, Dio"** (naam eigenaresse onbekend).
+- [ ] **Zes reviews** (Mariska, Samira, Kevin, Rachida, Jessica, Erwin) inclusief woonplaatsen.
+- [ ] **Pakketten** Klein & Fijn, Feest Compleet, Grand Paradijs, inclusief de inhoud per pakket.
+- [ ] **Details in het aanbod:** "van 2 tot 6 meter", "1- tot 4-laags frames", "factuur op bedrijfsnaam", enz.
+- [ ] **FAQ-antwoorden:** boeken 2 tot 4 weken vooraf, werkgebied (Capelle, Nesselande, Lansingerland, Zoetermeer, Barendrecht), opbouw op locatie, houdbaarheid, materiaal wordt na afloop opgehaald, biologisch afbreekbare latex.
+- [ ] **Beschikbaarheid:** "Ma t/m za, op afspraak" en de topbalk "Nu beschikbaar voor boekingen in het najaar & de feestdagen".
+- [ ] **Keti Koti-verhaal:** gebaseerd op haar eigen Instagram-tekst, licht herschreven.
+
 ## Nog aan te leveren / aan te vullen
 - [ ] **Echte reviews.** De huidige drie reviews op de site zijn VERZONNEN voorbeelden (Mariska, Samira, Kevin). Vervangen door echte klantreviews.
 - [ ] **Werkgebied.** Alleen Rotterdam en omgeving of verder? Bezorg- en opbouwkosten?
@@ -27,7 +38,6 @@ Ze maakt ballondecoratie op maat vanuit Rotterdam-Zevenkamp.
 - [ ] **Logo.** Origineel logobestand (gouden "D" met DIOBALLONS PARADIJS), liefst met transparante achtergrond. Nu staat er een tijdelijk tekstlogo.
 - [ ] **Originele foto's.** De huidige foto's zijn uitsneden uit screenshots en een schermopname (lage resolutie, soms nog Instagram-icoontjes). Vervangen door de originele bestanden.
 - [ ] **Cowgirl "10 jaar"-foto.** Hier hielp ze mee bij een collega. Mag deze in het portfolio? (Nu niet opgenomen op de site.)
-- [ ] **FAQ-sectie** toevoegen zodra bovenstaande antwoorden bekend zijn.
 
 ## Latere uitbreidingen
 - [ ] **Offerteformulier** koppelen aan WhatsApp of een formulierdienst (nu opent het een ingevulde e-mail naar Dioballons@outlook.com).
